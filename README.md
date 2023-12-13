@@ -1,3 +1,3 @@
 # ransomewareSimulation
-** Installation of cryptograpgy **
-$ pip install cryptograpgy
+** Installation of cryptography **
+$ pip install cryptography
